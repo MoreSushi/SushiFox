@@ -23,4 +23,4 @@ Go to **"about:profiles"** and look for the profiles in use. **Open your root pr
 Go to **Sidebery settings** (right-click the Sidebery Icon -> Settings)
 
 Scroll down all the way to the Help section and press **"Import settings"**
-Select the **setting.json** file you downloaded.
+Select the **sidebery.json** file you downloaded.
