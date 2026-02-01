@@ -1,120 +1,111 @@
 # SushiFox
 
-A personal Firefox setup that includes custom CSS styling, Sidebery layout, extensions, and configuration tweaks.
+A personal Firefox setup with custom CSS, Sidebery layout, extensions, and UI tweaks.
 
 ![Preview of my Firefox](https://github.com/MoreSushi/SushiFox/blob/091450564a0d6a73503f964d9f55e5527c5eef45/Demo/demo.gif)
 
 ---
 
-## What You Need Before Starting
+# Installation
 
-Make sure you have:
+### Requirements
 
-- Firefox **version 147 ESR or newer** installed (older versions may not work correctly)
-- **Vertical tabs turned OFF** in Firefox settings (Sidebery replaces them)
-- The SushiFox files downloaded from the **Releases** section or the source code
-
----
-
-## Installation Guide (Using Sidebery)
-
-Follow these steps carefully. No technical experience is required.
+* Firefox **147 ESR or newer**
+* Firefox **Vertical Tabs OFF** (Sidebery replaces them)
+* Download SushiFox files from **Releases** or source
 
 ---
 
-### Step 1 — Enable Firefox Custom Styling
+### 1 — Enable Custom CSS Support
 
-1. Click the address bar in Firefox.
-2. Type: `about:config`  
-3. Press Enter.
-4. Accept the warning if it appears.
+Open `about:config` and set:
 
-Search for each setting below and change the value as shown:
-
-- `toolkit.legacyUserProfileCustomizations.stylesheets` → set to **true**
-- `sidebar.revamp` → set to **false**
-- `widget.windows.mica.popups` → set to **0**
-
-To change a value, click the toggle button on the right side of the setting.
+```
+toolkit.legacyUserProfileCustomizations.stylesheets → true
+sidebar.revamp → false
+widget.windows.mica.popups → 0
+```
 
 ---
 
-### Step 2 — Install Sidebery
+### 2 — Install Sidebery
 
-Install the Sidebery extension from the Firefox Add-ons store:
-
-Sidebery: https://addons.mozilla.org/firefox/addon/sidebery/
-
----
-
-### Step 3 — Copy the Chrome Folder
-
-1. In the Firefox address bar, type: `about:profiles`
-2. Press Enter.
-3. Find the profile labeled **“This is the profile in use”**
-4. Click **Open Folder** next to it.
-5. In the folder that opens, paste the **chrome** folder you downloaded from SushiFox.
+Install:
+[https://addons.mozilla.org/firefox/addon/sidebery/](https://addons.mozilla.org/firefox/addon/sidebery/)
 
 ---
 
-### Step 4 — Restart Firefox
+### 3 — Copy Chrome Folder
 
-Close Firefox completely, then open it again.
-
-If everything worked, the browser’s appearance should now look different.
-
----
-
-### Step 5 — Import Sidebery Settings
-
-1. Click the Sidebery icon in your toolbar.
-2. Right-click the icon and choose **Settings**.
-3. Scroll to the bottom of the page.
-4. In the Help section, click **Import settings**.
-5. Select the included `sidebery.json` file.
+* Open `about:profiles`
+* Find **This is the profile in use**
+* Click **Open Folder**
+* Paste the SushiFox **chrome** folder inside
 
 ---
 
-## Done
+### 4 — Restart Firefox
 
-Your SushiFox setup should now be fully active.
-
-### Optional — Recommended Extensions
-
-> These extensions are **optional** and not required for SushiFox to work.
-
-| Extension                                                                                        | What it does                              |
-| ------------------------------------------------------------------------------------------------ | ----------------------------------------- |
-| [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)                                   | Advanced vertical tabs & tab tree manager |
-| [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)                         | Lightweight ad & tracker blocker          |
-| [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)                           | Runs custom user scripts                  |
-| [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)                              | Dark mode for all websites                |
-| [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                   | Quick page & text translation             |
-| [Holoschedule](https://addons.mozilla.org/firefox/addon/holo-schedule/)                          | Hololive stream schedule viewer           |
-| [Return YouTube Dislike](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes/)      | Restores dislike counts                   |
-| [SponsorBlock](https://addons.mozilla.org/firefox/addon/sponsorblock/)                           | Skips sponsored video segments            |
-| [YouTube Search Fixer](https://addons.mozilla.org/firefox/addon/youtube-suite-search-fixer/)     | Cleans YouTube search results             |
-| [YT Tweaks](https://addons.mozilla.org/firefox/addon/youtube-tweaks/)                            | Extra YouTube UI controls                 |
-| [7TV](https://addons.mozilla.org/firefox/addon/7tv-extension/)                                   | Adds Twitch/YouTube emotes                |
-| [Gumbo — Twitch Companion](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)     | Twitch chat & stream tools                |
-| [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | Anime recognition from images             |
-| [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview in browser                |
-| [osu! pp calculator](https://addons.mozilla.org/en-US/firefox/addon/pp-calculator/)              | Performance point calculator              |
-| [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Removes Twitter/X clutter & ads           |
+Fully close and reopen Firefox.
 
 ---
 
-#### Tampermonkey User Scripts
+### 5 — Import Sidebery Config
 
-| Script                                                                                           | What it does               |
-| ------------------------------------------------------------------------------------------------ | -------------------------- |
-| [Twitch Ad Blocker](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) | Blocks Twitch ads          |
-| [osu! Background Grabber](https://greasyfork.org/fr/scripts/542558-osu-backgroundgrabber)        | Downloads osu! backgrounds |
-| [osu! Web Enhancement](https://greasyfork.org/fr/scripts/475417-osu-web-enhancement)             | Improves osu! website UI   |
-| [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! site features   |
+* Open Sidebery → **Settings**
+* Scroll down → **Import settings**
+* Import `sidebery.json`
 
 ---
 
-#### 📌 Suggested Pinned Extensions
+Done — SushiFox should now be active.
 
-Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator
+---
+
+# Extensions
+
+## Recommended Extensions (Optional)
+
+| Extension                                                                                        | Purpose                  |
+| ------------------------------------------------------------------------------------------------ | ------------------------ |
+| [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)                                   | Vertical tabs & tab tree |
+| [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)                         | Ad & tracker blocker     |
+| [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)                           | User scripts             |
+| [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)                              | Global dark mode         |
+| [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                   | Page translation         |
+| [Holoschedule](https://addons.mozilla.org/firefox/addon/holo-schedule/)                          | Hololive schedule        |
+| [Return YouTube Dislike](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes/)      | Restore dislikes         |
+| [SponsorBlock](https://addons.mozilla.org/firefox/addon/sponsorblock/)                           | Skip sponsor segments    |
+| [YouTube Search Fixer](https://addons.mozilla.org/firefox/addon/youtube-suite-search-fixer/)     | Clean search results     |
+| [YT Tweaks](https://addons.mozilla.org/firefox/addon/youtube-tweaks/)                            | YouTube UI tweaks        |
+| [7TV](https://addons.mozilla.org/firefox/addon/7tv-extension/)                                   | Extra emotes             |
+| [Gumbo](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)                        | Twitch tools             |
+| [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | Anime lookup             |
+| [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview          |
+| [osu! pp calculator](https://addons.mozilla.org/en-US/firefox/addon/pp-calculator/)              | PP calculator            |
+| [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Remove Twitter/X clutter |
+
+---
+
+## Tampermonkey Scripts
+
+| Script                                                                                           | Purpose              |
+| ------------------------------------------------------------------------------------------------ | -------------------- |
+| [Twitch Ad Blocker](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) | Block Twitch ads     |
+| [osu! Background Grabber](https://greasyfork.org/fr/scripts/542558-osu-backgroundgrabber)        | Download backgrounds |
+| [osu! Web Enhancement](https://greasyfork.org/fr/scripts/475417-osu-web-enhancement)             | osu! UI improvements |
+| [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! features  |
+
+---
+
+## Suggested Pinned Extensions
+
+**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
+
+---
+
+# Credits
+
+* **[Firefox Downtown UI](https://github.com/oviung/DownToneUI-Firefox)** — Base theme with modified colors and details
+* **[potatofox](https://codeberg.org/da157/potatofox)** — Icons and small code parts
+* **[Win11 25H2 Monochrome Theme (Komorebi WM)](https://youtu.be/d1PvD31yQhc)** — Color palette inspiration
