@@ -79,3 +79,42 @@ If everything worked, the browser’s appearance should now look different.
 
 Your SushiFox setup should now be fully active.
 
+### Optional — Recommended Extensions
+
+> These extensions are **optional** and not required for SushiFox to work.
+
+| Extension                                                                                        | What it does                              |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------- |
+| [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)                                   | Advanced vertical tabs & tab tree manager |
+| [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)                         | Lightweight ad & tracker blocker          |
+| [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)                           | Runs custom user scripts                  |
+| [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)                              | Dark mode for all websites                |
+| [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                   | Quick page & text translation             |
+| [Holoschedule](https://addons.mozilla.org/firefox/addon/holoschedule/)                           | Hololive stream schedule viewer           |
+| [Return YouTube Dislike](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes/)      | Restores dislike counts                   |
+| [SponsorBlock](https://addons.mozilla.org/firefox/addon/sponsorblock/)                           | Skips sponsored video segments            |
+| [YouTube Search Fixer](https://addons.mozilla.org/firefox/addon/youtube-search-fixer/)           | Cleans YouTube search results             |
+| [YT Tweaks](https://addons.mozilla.org/firefox/addon/yt-tweaks/)                                 | Extra YouTube UI controls                 |
+| [7TV](https://addons.mozilla.org/firefox/addon/7tv/)                                             | Adds Twitch/YouTube emotes                |
+| [Gumbo — Twitch Companion](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)     | Twitch chat & stream tools                |
+| [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | Anime recognition from images             |
+| [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview in browser                |
+| [osu! pp calculator](https://addons.mozilla.org/firefox/addon/osu-pp-calculator/)                | Performance point calculator              |
+| [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Removes Twitter/X clutter & ads           |
+
+---
+
+#### Tampermonkey User Scripts
+
+| Script                                                                                           | What it does               |
+| ------------------------------------------------------------------------------------------------ | -------------------------- |
+| [Twitch Ad Blocker](https://github.com/pixeltris/TwitchAdSolutions/raw/master/vaft/vaft.user.js) | Blocks Twitch ads          |
+| [osu! Background Grabber](https://greasyfork.org/fr/scripts/542558-osu-backgroundgrabber)        | Downloads osu! backgrounds |
+| [osu! Web Enhancement](https://greasyfork.org/fr/scripts/475417-osu-web-enhancement)             | Improves osu! website UI   |
+| [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! site features   |
+
+---
+
+#### 📌 Suggested Pinned Extensions
+
+Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator
