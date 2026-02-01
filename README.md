@@ -1,5 +1,7 @@
 # SushiFox
 My own personal setup for Firefox (Includes Custom CSS with Sidebery, extensions, and config)
+![Preview of my Firefox](https://i.imgur.com/EuqCIIU.gif)
+
 ## Prerequisites
 
 - **Firefox v147** esr or later installed (untested on older versions)
