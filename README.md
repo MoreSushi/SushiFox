@@ -90,12 +90,12 @@ Your SushiFox setup should now be fully active.
 | [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)                           | Runs custom user scripts                  |
 | [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)                              | Dark mode for all websites                |
 | [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                   | Quick page & text translation             |
-| [Holoschedule](https://addons.mozilla.org/firefox/addon/holoschedule/)                           | Hololive stream schedule viewer           |
+| [Holoschedule](https://addons.mozilla.org/firefox/addon/holo-schedule/)                          | Hololive stream schedule viewer           |
 | [Return YouTube Dislike](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes/)      | Restores dislike counts                   |
 | [SponsorBlock](https://addons.mozilla.org/firefox/addon/sponsorblock/)                           | Skips sponsored video segments            |
-| [YouTube Search Fixer](https://addons.mozilla.org/firefox/addon/youtube-search-fixer/)           | Cleans YouTube search results             |
-| [YT Tweaks](https://addons.mozilla.org/firefox/addon/yt-tweaks/)                                 | Extra YouTube UI controls                 |
-| [7TV](https://addons.mozilla.org/firefox/addon/7tv/)                                             | Adds Twitch/YouTube emotes                |
+| [YouTube Search Fixer](https://addons.mozilla.org/firefox/addon/youtube-suite-search-fixer/)     | Cleans YouTube search results             |
+| [YT Tweaks](https://addons.mozilla.org/firefox/addon/youtube-tweaks/)                            | Extra YouTube UI controls                 |
+| [7TV](https://addons.mozilla.org/firefox/addon/7tv-extension/)                                   | Adds Twitch/YouTube emotes                |
 | [Gumbo — Twitch Companion](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)     | Twitch chat & stream tools                |
 | [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | Anime recognition from images             |
 | [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview in browser                |
