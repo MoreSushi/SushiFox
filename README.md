@@ -99,7 +99,7 @@ Your SushiFox setup should now be fully active.
 | [Gumbo — Twitch Companion](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)     | Twitch chat & stream tools                |
 | [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | Anime recognition from images             |
 | [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview in browser                |
-| [osu! pp calculator](https://addons.mozilla.org/firefox/addon/osu-pp-calculator/)                | Performance point calculator              |
+| [osu! pp calculator](https://addons.mozilla.org/en-US/firefox/addon/pp-calculator/)              | Performance point calculator              |
 | [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Removes Twitter/X clutter & ads           |
 
 ---
