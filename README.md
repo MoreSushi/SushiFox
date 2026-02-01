@@ -2,7 +2,7 @@
 
 A personal Firefox setup that includes custom CSS styling, Sidebery layout, extensions, and configuration tweaks.
 
-[Preview of my Firefox](https://github.com/MoreSushi/SushiFox/blob/091450564a0d6a73503f964d9f55e5527c5eef45/Demo/demo.gif)
+![Preview of my Firefox](https://github.com/MoreSushi/SushiFox/blob/091450564a0d6a73503f964d9f55e5527c5eef45/Demo/demo.gif)
 
 ---
 
