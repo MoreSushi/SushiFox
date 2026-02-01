@@ -51,8 +51,6 @@ Install:
 * Scroll down to help → **Import settings**
 * Import `sidebery.json`
 
----
-
 Done — SushiFox should now be active.
 
 ---
