@@ -68,9 +68,9 @@ Done — SushiFox should now be active.
 
 | Extension                                                                                        | Purpose                  |
 | ------------------------------------------------------------------------------------------------ | ------------------------ |
-| [Sidebery](https://addons.mozilla.org/firefox/addon/sidebery/)                                   | Vertical tabs & tab tree |
-| [uBlock Origin](https://addons.mozilla.org/firefox/addon/ublock-origin/)                         | Ad & tracker blocker     |
-| [Tampermonkey](https://addons.mozilla.org/firefox/addon/tampermonkey/)                           | User scripts             |
+| [**Sidebery**](https://addons.mozilla.org/firefox/addon/sidebery/)                               | Vertical tabs & tab tree |
+| [**uBlock Origin**](https://addons.mozilla.org/firefox/addon/ublock-origin/)                     | Ad & tracker blocker     |
+| [**Tampermonkey**](https://addons.mozilla.org/firefox/addon/tampermonkey/)                       | User scripts             |
 | [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)                              | Global dark mode         |
 | [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                   | Page translation         |
 | [Holoschedule](https://addons.mozilla.org/firefox/addon/holo-schedule/)                          | Hololive schedule        |
@@ -85,9 +85,7 @@ Done — SushiFox should now be active.
 | [osu! pp calculator](https://addons.mozilla.org/en-US/firefox/addon/pp-calculator/)              | PP calculator            |
 | [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Remove Twitter/X clutter |
 
----
-
-## Tampermonkey Scripts
+### Tampermonkey Scripts
 
 | Script                                                                                           | Purpose              |
 | ------------------------------------------------------------------------------------------------ | -------------------- |
@@ -96,11 +94,8 @@ Done — SushiFox should now be active.
 | [osu! Web Enhancement](https://greasyfork.org/fr/scripts/475417-osu-web-enhancement)             | osu! UI improvements |
 | [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! features  |
 
----
-
-## Suggested Pinned Extensions
-
-**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
+### Suggested Pinned Extensions
+- **Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
 
 ---
 
