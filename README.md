@@ -14,7 +14,6 @@ A personal Firefox setup with custom CSS, Sidebery layout, extensions, and UI tw
 * Firefox **Vertical Tabs OFF** (Sidebery replaces them)
 * Download SushiFox files from **Releases** or source
 
----
 
 ### 1 — Enable Custom CSS Support
 
@@ -26,14 +25,12 @@ sidebar.revamp → false
 widget.windows.mica.popups → 0
 ```
 
----
 
 ### 2 — Install Sidebery
 
 Install:
 [https://addons.mozilla.org/firefox/addon/sidebery/](https://addons.mozilla.org/firefox/addon/sidebery/)
 
----
 
 ### 3 — Copy Chrome Folder
 
@@ -43,7 +40,6 @@ Install:
 * Paste the SushiFox **chrome** folder inside
 * Restart Firefox
 
----
 
 ### 4 — Import Sidebery Config
 
