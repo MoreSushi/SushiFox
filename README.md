@@ -35,8 +35,8 @@ Install:
 ### 3 — Copy Chrome Folder
 
 * Open `about:profiles`
-* Find **This is the profile in use**
-* Click **Open Folder**
+* Find **"This is the profile in use"**
+* Click **Open Folder** for "Root Directory"
 * Paste the SushiFox **chrome** folder inside
 * Restart Firefox
 
