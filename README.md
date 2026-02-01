@@ -41,19 +41,14 @@ Install:
 * Find **This is the profile in use**
 * Click **Open Folder**
 * Paste the SushiFox **chrome** folder inside
+* Restart Firefox
 
 ---
 
-### 4 — Restart Firefox
-
-Fully close and reopen Firefox.
-
----
-
-### 5 — Import Sidebery Config
+### 4 — Import Sidebery Config
 
 * Open Sidebery → **Settings**
-* Scroll down → **Import settings**
+* Scroll down to help → **Import settings**
 * Import `sidebery.json`
 
 ---
