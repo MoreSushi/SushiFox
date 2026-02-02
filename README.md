@@ -53,7 +53,9 @@ Done — SushiFox should now be active.
 
 # Extensions
 
-## Recommended Extensions (Optional)
+## My Extensions (Optional)
+These are the extensions I personally use. They’re not required for this setup, but are listed here for reference in case you’re curious.
+
 
 | Extension                                                                                        | Purpose                  |
 | ------------------------------------------------------------------------------------------------ | ------------------------ |
