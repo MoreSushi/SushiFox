@@ -62,14 +62,14 @@ These are the extensions I personally use. They’re not required for this setup
 | [**Tampermonkey**](https://addons.mozilla.org/firefox/addon/tampermonkey/)                       | User scripts             |
 | [Dark Reader](https://addons.mozilla.org/firefox/addon/darkreader/)                              | Global dark mode         |
 | [Simple Translate](https://addons.mozilla.org/firefox/addon/simple-translate/)                   | Page translation         |
-| [Holoschedule](https://addons.mozilla.org/firefox/addon/holo-schedule/)                          | Hololive schedule        |
+| [Holoschedule](https://addons.mozilla.org/firefox/addon/holo-schedule/)                          | Hololive stream tracker  |
 | [Return YouTube Dislike](https://addons.mozilla.org/firefox/addon/return-youtube-dislikes/)      | Restore dislikes         |
 | [SponsorBlock](https://addons.mozilla.org/firefox/addon/sponsorblock/)                           | Skip sponsor segments    |
 | [YouTube Search Fixer](https://addons.mozilla.org/firefox/addon/youtube-suite-search-fixer/)     | Clean search results     |
 | [YT Tweaks](https://addons.mozilla.org/firefox/addon/youtube-tweaks/)                            | YouTube UI tweaks        |
 | [7TV](https://addons.mozilla.org/firefox/addon/7tv-extension/)                                   | Extra emotes             |
-| [Gumbo](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)                        | Twitch tools             |
-| [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | Anime lookup             |
+| [Gumbo](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)                        | Twitch follow tracker    |
+| [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | osu! map Anime lookup    |
 | [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview          |
 | [osu! pp calculator](https://addons.mozilla.org/en-US/firefox/addon/pp-calculator/)              | PP calculator            |
 | [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Remove Twitter/X clutter |
@@ -84,7 +84,7 @@ These are the extensions I personally use. They’re not required for this setup
 | [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! features  |
 
 ### Suggested Pinned Extensions
-- **Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
+	**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
 
 ---
 
