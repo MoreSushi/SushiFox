@@ -11,7 +11,7 @@ My personal Firefox setup based on [Downtown UI](https://github.com/oviung/DownT
 
 * Firefox **147 ESR or newer**
 * Firefox **Vertical Tabs OFF** (Sidebery replaces them)
-* Download SushiFox files from **Releases** or source
+* Download SushiFox files from **[Releases](https://github.com/MoreSushi/SushiFox/releases)** or source
 
 
 ### 1 — Enable Custom CSS Support
@@ -84,7 +84,7 @@ These are the extensions I personally use. They’re not required for this setup
 | [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! features  |
 
 ### Suggested Pinned Extensions
-	**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
+**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
 
 ---
 
