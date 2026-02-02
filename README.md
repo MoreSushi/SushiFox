@@ -1,5 +1,5 @@
 # SushiFox
-My personal Firefox setup with custom CSS, Sidebery layout, extensions, and UI tweaks.
+My personal Firefox setup based on [Downtown UI](https://github.com/oviung/DownToneUI-Firefox) with custom CSS, Sidebery layout, extensions, and UI tweaks.
 
 ![Preview of my Firefox](https://github.com/MoreSushi/SushiFox/blob/091450564a0d6a73503f964d9f55e5527c5eef45/Demo/demo.gif)
 
@@ -27,8 +27,7 @@ widget.windows.mica.popups → 0
 
 ### 2 — Install Sidebery
 
-Install:
-[https://addons.mozilla.org/firefox/addon/sidebery/](https://addons.mozilla.org/firefox/addon/sidebery/)
+Install: [Addon page](https://addons.mozilla.org/firefox/addon/sidebery/) | [Github Release](https://github.com/mbnuqw/sidebery/releases)
 
 
 ### 3 — Copy Chrome Folder
