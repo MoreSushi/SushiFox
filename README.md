@@ -1,6 +1,5 @@
 # SushiFox
-
-A personal Firefox setup with custom CSS, Sidebery layout, extensions, and UI tweaks.
+My personal Firefox setup with custom CSS, Sidebery layout, extensions, and UI tweaks.
 
 ![Preview of my Firefox](https://github.com/MoreSushi/SushiFox/blob/091450564a0d6a73503f964d9f55e5527c5eef45/Demo/demo.gif)
 
@@ -17,7 +16,7 @@ A personal Firefox setup with custom CSS, Sidebery layout, extensions, and UI tw
 
 ### 1 — Enable Custom CSS Support
 
-Open `about:config` and set:
+Go to `about:config` (in the URL bar) and set:
 
 ```
 toolkit.legacyUserProfileCustomizations.stylesheets → true
@@ -34,7 +33,7 @@ Install:
 
 ### 3 — Copy Chrome Folder
 
-* Open `about:profiles`
+* Go to `about:profiles`
 * Find **"This is the profile in use"**
 * Click **Open Folder** for "Root Directory"
 * Paste the SushiFox **chrome** folder inside
