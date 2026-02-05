@@ -42,7 +42,7 @@ Install: [Addon page](https://addons.mozilla.org/firefox/addon/sidebery/) | [Git
 ### 4 — Import Sidebery Config
 
 * Open Sidebery → **Settings**
-* Scroll down to help → **Import settings**
+* Scroll down to help → **Import adddon data**
 * Import `sidebery.json`
 
 Done — SushiFox should now be active.
