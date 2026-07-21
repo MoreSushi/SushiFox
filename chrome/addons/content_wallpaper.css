@@ -1,0 +1,18 @@
+/* ============================================================================
+ * Add wallpaper to Home and blur foreground elements
+ * NOTE: add your image to chrome/DownToneUI/ and name it "wallpaper.jpg"
+ * ========================================================================= */
+
+@-moz-document url-prefix("about:home"), url-prefix("about:newtab"), url-prefix(about:privatebrowsing) {{}
+  body {
+    background: url("wallpaper.jpg") !important;
+    background-size: cover !important;
+  }
+  .search-handoff-button, .tile, .customize-menu, .context-menu {
+    backdrop-filter: blur(10px) !important;
+    background-color: rgba(var(--dtui-theme-secondary-color), 0.5) !important;
+  }
+  .close-button-wrapper {
+    background: transparent !important;
+  }
+}

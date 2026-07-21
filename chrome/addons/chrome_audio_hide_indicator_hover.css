@@ -1,0 +1,10 @@
+/* ============================================================================
+ * Hide audio indicator on tab hover
+ * ========================================================================= */
+
+#tabbrowser-tabs .tabbrowser-tab:hover {
+  .tab-icon-overlay, .tab-audio-button { display: none !important; }
+  .tab-icon-stack[soundplaying], .tab-icon-stack[muted], .tab-icon-stack[activemedia-blocked] {
+    margin-right: 3.5px !important;
+  }
+}

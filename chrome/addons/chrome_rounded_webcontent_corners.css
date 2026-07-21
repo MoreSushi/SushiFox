@@ -1,0 +1,15 @@
+/* ============================================================================
+ * Rounded webcontent corners
+ * ========================================================================= */
+
+#tabbrowser-tabbox::before {
+  inset: -10px !important;
+  border: 10px solid rgb(var(--dtui-theme-main-color)) !important;
+  border-radius: 18px !important;
+  content: "" !important;
+  position: absolute !important;
+  pointer-events: none !important;
+  z-index: 1 !important;
+}
+#tabbrowser-tabbox { margin: 8px 6px 6px 8px !important; }
+#main-window[inFullscreen="true"] #tabbrowser-tabbox { margin: 6px !important; }
