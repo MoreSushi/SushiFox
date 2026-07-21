@@ -19,9 +19,12 @@ My personal Firefox setup based on [Downtown UI](https://github.com/oviung/DownT
 Go to `about:config` (in the URL bar) and set:
 
 ```
+widget.windows.mica.popups → 0 (Windows only)
+widget.gtk.ignore-bogus-leave-notify → 1 (Linux only)
 toolkit.legacyUserProfileCustomizations.stylesheets → true
 sidebar.revamp → false
-widget.windows.mica.popups → 0
+browser.nova.enabled → false
+browser.newtabpage.activity-stream.nova.enabled → false
 ```
 
 
