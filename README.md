@@ -73,9 +73,10 @@ These are the extensions I personally use. They’re not required for this setup
 | [7TV](https://addons.mozilla.org/firefox/addon/7tv-extension/)                                   | Extra emotes             |
 | [Gumbo](https://addons.mozilla.org/firefox/addon/gumbo-twitch-companion/)                        | Twitch follow tracker    |
 | [ani!search](https://addons.mozilla.org/firefox/addon/ani-search/)                               | osu! map Anime lookup    |
-| [osu! preview](https://addons.mozilla.org/firefox/addon/osu-preview/)                            | Beatmap preview          |
+| [mosu! preview](https://addons.mozilla.org/en-US/firefox/addon/mosu-preview/versions/)           | Beatmap preview          |
 | [osu! pp calculator](https://addons.mozilla.org/en-US/firefox/addon/pp-calculator/)              | PP calculator            |
 | [Control Panel for Twitter](https://addons.mozilla.org/firefox/addon/control-panel-for-twitter/) | Remove Twitter/X clutter |
+| [Librezam](https://addons.mozilla.org/en-US/firefox/addon/librezam/)                             | Open source Shazam addon |
 
 ### Tampermonkey Scripts
 
