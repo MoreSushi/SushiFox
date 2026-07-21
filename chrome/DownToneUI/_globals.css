@@ -30,7 +30,7 @@
     --dtui-theme-border-radius: 6px;
 
     --dtui-sidebar-hover-debounce: 0ms;
-    --dtui-sidebar-animation-speed: 300ms;
+    --dtui-sidebar-animation-speed: 150ms;
 }
 
 /* ============================================================================
