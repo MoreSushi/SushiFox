@@ -88,7 +88,7 @@ These are the extensions I personally use. They’re not required for this setup
 | [osu! Plus](https://github.com/limjeck/osuplus/raw/master/osuplus.user.js)                       | Extra osu! features  |
 
 ### Suggested Pinned Extensions
-**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator**
+**Sidebery • uBlock Origin • Gumbo • Holoschedule • osu! pp calculator • mosu! preview • Librezam**
 
 ---
 
